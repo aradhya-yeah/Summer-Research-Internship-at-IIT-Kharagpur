@@ -8,7 +8,7 @@ This repository contains the final research internship presentation, complete ex
 
 ---
 
-## 🔬 Research Overview
+## Research Overview
 
 Influenza viruses (family *Orthomyxoviridae*) represent major threats to global public health, accounting for an estimated 3 to 5 million severe cases of respiratory illness annually. While Influenza A virus (IAV) is notorious for worldwide pandemics across human and animal reservoirs, **Influenza B virus (IBV)** circulates almost exclusively in humans, inflicting significant seasonal morbidity and mortality.
 
@@ -21,7 +21,7 @@ Viral transcription and genome replication depend fundamentally on the viral rib
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── final_report.pptx       # Master presentation slide deck (21 slides)
@@ -50,7 +50,7 @@ Viral transcription and genome replication depend fundamentally on the viral rib
 
 ---
 
-## 📊 Extracted Figures & Scientific Captions Summary
+## Extracted Figures & Scientific Captions Summary
 
 For the full detailed catalog, please refer to [FIGURE_CAPTIONS.md](FIGURE_CAPTIONS.md).
 
@@ -72,7 +72,7 @@ For the full detailed catalog, please refer to [FIGURE_CAPTIONS.md](FIGURE_CAPTI
 
 ---
 
-## 🧪 Experimental Workflow & Key Findings
+## Experimental Workflow & Key Findings
 
 1. **Recombinant Expression & Purification**:
    - DDX3X recombinant protein was expressed at high yields in *E. coli* BL21(DE3) with IPTG induction.
@@ -85,7 +85,7 @@ For the full detailed catalog, please refer to [FIGURE_CAPTIONS.md](FIGURE_CAPTI
 
 ---
 
-## 👤 Author & Acknowledgments
+## Author & Acknowledgments
 
 - **Investigator**: Aradhya Gupta (1st Year BS-MS, South Asian University)
 - **Principal Investigator & Supervisor**: Prof. Arindam Mondal, Department of Bioscience and Biotechnology, Indian Institute of Technology (IIT) Kharagpur
